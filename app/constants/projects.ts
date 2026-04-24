@@ -3,16 +3,16 @@ import { Project } from "../types";
 // TODO: Move this to API
 export const PROJECTS: Project[] = [
   {
-    title: 'Angular Gulp Seed',
-    date: 'Aug 2016',
+    title: 'First Portfolio',
+    date: 'Jan 2023',
     subtext: 'A basic starter project to initialize project using AngularJS and Gulp. It follows MVC architecture and uses standard app structure.',
-    url: 'https://github.com/mohitvirli/angular-gulp-seed',
+    url: 'https://portfolio-omega-virid-90.vercel.app/',
   },
   {
-    title: 'State.js',
+    title: 'Branding SDK',
     date: 'Jul 2020',
     subtext: 'A lightweight library for turning JS objects into observables, providing a convenient API for state management and manipulation.',
-    url: 'https://github.com/mohitvirli/state.js',
+    url: 'https://canva.link/v41k4pm27xfkaxc',
   },
   {
     title: 'change-host',
